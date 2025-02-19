@@ -11,6 +11,7 @@
 The `php-contrib-sdk` repository is a monorepository containing various providers, hooks, and other integrations for OpenFeature's PHP SDK. Packages include:
 
 - Providers
+  - [Bucket](./providers/Bucket/README.md)
   - [Flagd](./providers/Flagd/README.md)
   - [Split](./providers/Split/README.md)
   - [CloudBees](./providers/CloudBees/README.md)
